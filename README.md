@@ -50,3 +50,5 @@ Setting up the frontend is quick and easy. Follow these steps to get our Image U
     ```
 
     This command will ignite the **Next.js** development server, and your dazzling frontend will be accessible at `http://localhost:3000`. ✨
+
+    Author: Prabha
